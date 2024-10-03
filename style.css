@@ -1,0 +1,22 @@
+body {
+    
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #000851;
+      
+}
+
+
+#skills li {
+    color: #000851;
+}
+
+.nav-link{
+    color: #000851;
+    font-weight: bold;
+}
+
+.nav-pills .nav-link.active {
+    background-color: #000851;
+}
